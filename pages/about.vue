@@ -1,7 +1,7 @@
 <template>
   <div>
     <div v-if="info">
-      <h1 class="heading">О Деловой Колбасе</h1>
+      <h1 class="heading">О Алине Матросовой</h1>
       <p class="about__text">{{ info.text }}</p>
     </div>
     <LoaderComponent v-else />
