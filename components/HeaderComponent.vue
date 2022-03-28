@@ -1,6 +1,6 @@
 <template>
   <div class="header">
-    <div class="header__logo">Деловая колбаса</div>
+    <div class="header__logo">Алина МАтросова</div>
     <ul class="header__list">
       <li class="header__item"><a href="/">Главная</a></li>
       <li class="header__item"><a href="/about">Про нас</a></li>
